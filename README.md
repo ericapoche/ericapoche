@@ -4,5 +4,6 @@
 
 <br>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ericapoche.ericapoche)
+
 
