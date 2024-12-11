@@ -2,4 +2,7 @@
   <strong>Hi, I’m Erica and I would love to expand my knowledge in every way ❤️.</strong>
 </p>
 
-https://img.shields.io/badge/any_text-you_like-blue
+<br>
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
