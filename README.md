@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi, I’m Erica and I would love to expand my knowledge in every way ❤️.</strong>
+  <strong>Hey, What's up? Anything you need? </strong>
 </p>
 
 
