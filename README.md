@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hey, What's up?</strong>
+  <strong style="font-size: 40px;">Hey, What's up?</strong>
 </p>
 
 
