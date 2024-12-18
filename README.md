@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <style>
     .large-text {
@@ -10,3 +12,4 @@
     <strong class="large-text">Hey, What's up?</strong>
   </p>
 </body>
+</html>
